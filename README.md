@@ -1,12 +1,12 @@
-# Project 1 
+# Project 1 - SAT and ACT Analysis
 
 ## Introduction
 
-The Scholastic Aptitude Test (SAT) is one of the college admission tests in the United States, administered by the College Board. In 2018, it surpassed ACT (another popular college admissions test) to be the most widely used (Genota, 2018). While it is widely used as a standardised test to measure abilities of students for colleges, some say that the SAT still benefits more privileged students (Buzz, 2019), in spite of a recent attempt to consider socio-economic backgrounds of test takers, through a redesign of the test (College Board, 2014).  
+The Scholastic Aptitude Test (SAT) is one of the college admission tests in the United States, administered by the College Board. In 2018, it surpassed ACT (another popular college admissions test in our analysis) to be the most widely used (Genota, 2018). While it is widely used as a standardised test to measure abilities of students for colleges, some say that the SAT still benefits more privileged students (Buzz, 2019), in spite of a recent attempt to consider socio-economic backgrounds of test takers, through a redesign of the test (College Board, 2014).  
 
 ## Problem Statement
 
-Income inequality across states continue to affect equal opportunities for students taking the SAT. 
+Based on the SAT and ACT scores in 2017 and 2018, explore what affects participation rates and from analysis across states, provide recommmendations on how to improve SAT participation rates, in particular. Consider whether income inequality across states continue to affect equal opportunities for students taking the SAT. 
 
 ## Analysis 
 
