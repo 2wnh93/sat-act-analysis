@@ -13,30 +13,30 @@ Income inequality across states continue to affect equal opportunities for stude
 ### Change in Participation Rate between 2017 and 2018
 Between 2017 and 2018, we have identified that Colorado had a dramatic increase in SAT participation rate in 2018. The State voted to adopt SAT as a required test as opposed to ACT, because the redesigned SAT measures skills and knowledge like critical thinking and analytical reasoning that are critical for college and career readiness (Colorado Children's Campaign, 2016). This is a strong factor for change towards SAT as Illinois also made the same move (Sarchiapone, 2017) as seen in Figure 1 below. 
 
-Insert colorado-part pic
-Figure 1
+![](images/colorado-part-rate.png)
+*Figure 1 : Participation Rates of ACT and SAT in 2017 and 2018 across States*
 
 ### Income Disparity affects Opportunities
 A large consideration for deciding whether to attend college is the financial cost. With the financial burden of graduating with debt, it makes more sense for some students to pursue other avenues (Bustamante, 2019). 
 
 Researchers have repeatedly found that wealthy students enjoy significant advantages throughout the college application process, and that income greatly impacts a student's performance on standardised tests, like SAT (Hess, 2019). Wealth vary across states as seen (Figure 2). 
 
-Insert US Median Household Income pic 
-Source : census.gov Figure 2
+![](images/2018-us-median-income.png)
+*Figure 2 : 2018 US Median Household Income across States
+https://www.census.gov/library/visualizations/interactive/2018-median-household-income.html*
 
 When we consider the income categories of states based on their median household income, we see that most states at the lowest income category of $50,000 have very low SAT participation rates (Figure 3). This is an area which could improve with more effort to promote SAT participation among these states. 
 
-Insert income-cat pic. 
-Figure 3
+![](images/income-cat.png)
+*Figure 3 : 2018 SAT Participation Rate against Total SAT Scores by Income Categories*
 
 ### Model State
 Tennessee is one of the states from the lower income category, with very low participation rate in SAT but scored very high in the SAT in 2018. 
 
-
 To partly alleviate the financial burden, some states administer the SATs for free (College Board, 2018).
 
-Insert Tennessee high pic. 
-Figure 4 
+![](images/tennessee-high.png)
+*Figure 4 : 2018 SAT Participation Rate against Total SAT Scores by Free Admission Test*
 
 Tennessee scored the highest among other states that provide free state-administered SAT tests (Figure 4)
 
